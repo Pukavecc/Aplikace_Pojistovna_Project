@@ -1,0 +1,22 @@
+1. Pojmenování identifikátorů
+Třídy: Pojmenování tříd je konzistentní a smysluplné. Třídy jako Pojistenec, EvidencePojistencu, Pojistovna, a UzivatelskeRozhrani jasně naznačují, co dělají. Název třídy Program je v pořádku pro hlavní vstupní bod aplikace.
+Proměnné: Proměnné jsou pojmenovány jasně a výstižně, což přispívá k dobré čitelnosti kódu.
+2. Dodržení principů SRP, SoC a DRY
+SRP (Single Responsibility Principle): Princip SRP je celkem dobře dodržen. Třída Pojistenec se stará pouze o reprezentaci dat, EvidencePojistencu spravuje kolekci pojištěnců, UzivatelskeRozhrani se stará o vstup a výstup od uživatele, a Pojistovna řídí hlavní logiku aplikace.
+SoC (Separation of Concerns): Princip SoC je dodržen. Každá třída má svou jasně definovanou odpovědnost, a komunikace mezi třídami je dobře organizovaná.
+DRY (Don't Repeat Yourself): Kód obsahuje minimum duplicit, což je dobré. Logika pro vstupy od uživatele je centralizována v třídě UzivatelskeRozhrani, což je správný přístup.
+3. Vhodné výběry datových typů
+Věk: Je správně reprezentován jako int.
+Telefonní číslo: Je správně uloženo jako string, což je vhodné pro uložení nečíselných dat.
+4. Správné formátování kódu
+Formátování kódu je většinou konzistentní a přehledné. Některé části by mohly být více odsazeny pro lepší čitelnost, ale obecně je kód dobře formátován.
+5. Minimalizace duplicitního kódu a absence nekonečných cyklů
+Nekonečné cykly v hlavní metodě jsou zde přítomny, ale mají jasné podmínky ukončení, takže nejsou problémem. Duplicitní kód je minimalizován díky dobře organizované struktuře tříd.
+6. Validace vstupních dat a ošetření neočekávaných vstupů
+Validace vstupů je dobře implementována. Například vstup pro jméno a příjmení kontroluje minimální délku, věk je validován jako číslo, a telefonní číslo je ověřováno na správný formát. Tím se zvyšuje robustnost aplikace.
+7. Logičnost a přiměřená složitost algoritmů
+Algoritmy jsou jednoduché a logické. Kód je dobře strukturován, aby bylo možné snadno sledovat, co která část aplikace dělá.
+8. Přítomnost a kvalita komentářů
+Komentáře jsou přítomny a dostatečně popisují účel jednotlivých metod a tříd. Tím se zvyšuje čitelnost kódu, což je užitečné zejména pro další vývoj a údržbu.
+9. Celkové hodnocení
+Tento kód je velmi dobře strukturovaný a splňuje všechny hlavní principy dobrého programování. Oddělení odpovědností je jasné, validace vstupních dat je implementována efektivně a formátování kódu je na vysoké úrovni. Kód je vhodný pro junior programátora a představuje dobrý základ pro další rozšiřování nebo úpravy. Celkově lze říci, že aplikace je dobře navržena a splňuje zadání.
