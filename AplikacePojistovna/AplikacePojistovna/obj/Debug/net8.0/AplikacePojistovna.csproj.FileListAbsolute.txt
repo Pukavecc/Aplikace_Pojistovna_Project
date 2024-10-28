@@ -1,0 +1,14 @@
+C:\Users\Puk4v\Dropbox\Project\AplikacePojistovna\AplikacePojistovna\bin\Debug\net8.0\AplikacePojistovna.exe
+C:\Users\Puk4v\Dropbox\Project\AplikacePojistovna\AplikacePojistovna\bin\Debug\net8.0\AplikacePojistovna.deps.json
+C:\Users\Puk4v\Dropbox\Project\AplikacePojistovna\AplikacePojistovna\bin\Debug\net8.0\AplikacePojistovna.runtimeconfig.json
+C:\Users\Puk4v\Dropbox\Project\AplikacePojistovna\AplikacePojistovna\bin\Debug\net8.0\AplikacePojistovna.dll
+C:\Users\Puk4v\Dropbox\Project\AplikacePojistovna\AplikacePojistovna\bin\Debug\net8.0\AplikacePojistovna.pdb
+C:\Users\Puk4v\Dropbox\Project\AplikacePojistovna\AplikacePojistovna\obj\Debug\net8.0\AplikacePojistovna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Puk4v\Dropbox\Project\AplikacePojistovna\AplikacePojistovna\obj\Debug\net8.0\AplikacePojistovna.AssemblyInfoInputs.cache
+C:\Users\Puk4v\Dropbox\Project\AplikacePojistovna\AplikacePojistovna\obj\Debug\net8.0\AplikacePojistovna.AssemblyInfo.cs
+C:\Users\Puk4v\Dropbox\Project\AplikacePojistovna\AplikacePojistovna\obj\Debug\net8.0\AplikacePojistovna.csproj.CoreCompileInputs.cache
+C:\Users\Puk4v\Dropbox\Project\AplikacePojistovna\AplikacePojistovna\obj\Debug\net8.0\AplikacePojistovna.dll
+C:\Users\Puk4v\Dropbox\Project\AplikacePojistovna\AplikacePojistovna\obj\Debug\net8.0\refint\AplikacePojistovna.dll
+C:\Users\Puk4v\Dropbox\Project\AplikacePojistovna\AplikacePojistovna\obj\Debug\net8.0\AplikacePojistovna.pdb
+C:\Users\Puk4v\Dropbox\Project\AplikacePojistovna\AplikacePojistovna\obj\Debug\net8.0\AplikacePojistovna.genruntimeconfig.cache
+C:\Users\Puk4v\Dropbox\Project\AplikacePojistovna\AplikacePojistovna\obj\Debug\net8.0\ref\AplikacePojistovna.dll
